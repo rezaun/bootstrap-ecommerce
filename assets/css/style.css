@@ -19,3 +19,42 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat-one{
+    background-image: linear-gradient(45deg, orange 0%, #FF136F 100%);
+}
+.cat-two{
+    background-image: linear-gradient(45deg, orchid 0%, #FF136F 100%);
+}
+.cat-three{
+   background-image: linear-gradient(45deg, blue 0%, #FF136F 100%);
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.cat-one, .cat-two, .cat-three {
+    border-radius: 10px;
+    padding: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+
+}
+#subscribe h6{
+    color: gray;
+
+}
+footer{
+    text-align: center;
+}
